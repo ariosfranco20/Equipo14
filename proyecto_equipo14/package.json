@@ -1,5 +1,5 @@
 {
-  "name": "proyecto-equipo14",
+  "name": "proyecto_equipo14",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.2.0",
+    "dateformat": "^5.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.39.5",
     "react-router-dom": "^6.4.3"
   },
   "devDependencies": {
